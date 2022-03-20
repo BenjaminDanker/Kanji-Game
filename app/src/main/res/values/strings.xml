@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kanji Memory</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="kanji_big_str">Reload</string>
+    <string name="hirakana_str">Reload</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735057443143",
+    "project_id": "kanji-game-9bead",
+    "storage_bucket": "kanji-game-9bead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735057443143:android:78f45a1524320a3c637462",
+        "android_client_info": {
+          "package_name": "com.silvergem.kanjigame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735057443143-bojt6t4la6gl1ohae0a082ccqd6aprod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAox6cWVPCG9grvY-EIVoqi92wc5B2NVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735057443143-bojt6t4la6gl1ohae0a082ccqd6aprod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

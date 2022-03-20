@@ -1,0 +1,23 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="6"
+        android:entries="@array/entries"
+        android:entryValues="@array/values"
+        android:key="card_count"
+        android:title="Card Count" />
+
+    <ListPreference
+        android:defaultValue="1"
+        android:entries="@array/entries_type"
+        android:entryValues="@array/values_type"
+        android:key="card_type"
+        android:title="Level" />
+
+    <Preference android:title="Privacy Policy">
+        <intent android:action="android.intent.action.VIEW"
+            android:data="https://silvergems.github.io/App_License/" />
+    </Preference>
+
+</PreferenceScreen>
